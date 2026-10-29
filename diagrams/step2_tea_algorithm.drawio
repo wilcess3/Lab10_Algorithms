@@ -1,0 +1,82 @@
+<mxfile host="65bd71144e">
+    <diagram id="VNTbm0UnHjJiDUmC7Ut8" name="Page-1">
+        <mxGraphModel dx="224" dy="596" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="UEK8QpO8ahS-XsoeuUCe-3" edge="1" parent="1" source="UEK8QpO8ahS-XsoeuUCe-1" style="edgeStyle=none;html=1;" target="UEK8QpO8ahS-XsoeuUCe-2" value="">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="UEK8QpO8ahS-XsoeuUCe-1" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="Начало" vertex="1">
+                    <mxGeometry height="80" width="120" x="280" y="330" as="geometry"/>
+                </mxCell>
+                <mxCell id="UEK8QpO8ahS-XsoeuUCe-7" edge="1" parent="1" source="UEK8QpO8ahS-XsoeuUCe-2" style="edgeStyle=none;html=1;" target="UEK8QpO8ahS-XsoeuUCe-5" value="">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="UEK8QpO8ahS-XsoeuUCe-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Взять чайник" vertex="1">
+                    <mxGeometry height="60" width="120" x="280" y="430" as="geometry"/>
+                </mxCell>
+                <mxCell id="UEK8QpO8ahS-XsoeuUCe-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Налить в чайник воду" vertex="1">
+                    <mxGeometry height="60" width="120" x="280" y="510" as="geometry"/>
+                </mxCell>
+                <mxCell id="UEK8QpO8ahS-XsoeuUCe-8" edge="1" parent="1" source="UEK8QpO8ahS-XsoeuUCe-5" style="edgeStyle=none;html=1;" target="UEK8QpO8ahS-XsoeuUCe-6" value="">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="UEK8QpO8ahS-XsoeuUCe-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Поставить чайник на плиту" vertex="1">
+                    <mxGeometry height="60" width="120" x="280" y="590" as="geometry"/>
+                </mxCell>
+                <mxCell id="UEK8QpO8ahS-XsoeuUCe-10" edge="1" parent="1" source="UEK8QpO8ahS-XsoeuUCe-6" style="edgeStyle=none;html=1;" target="UEK8QpO8ahS-XsoeuUCe-9" value="">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="UEK8QpO8ahS-XsoeuUCe-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Включить плиту" vertex="1">
+                    <mxGeometry height="60" width="120" x="280" y="670" as="geometry"/>
+                </mxCell>
+                <mxCell id="UEK8QpO8ahS-XsoeuUCe-12" edge="1" parent="1" source="UEK8QpO8ahS-XsoeuUCe-9" style="edgeStyle=none;html=1;" target="UEK8QpO8ahS-XsoeuUCe-11" value="">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="UEK8QpO8ahS-XsoeuUCe-9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Дождаться закипания воды" vertex="1">
+                    <mxGeometry height="60" width="120" x="280" y="750" as="geometry"/>
+                </mxCell>
+                <mxCell id="UEK8QpO8ahS-XsoeuUCe-14" edge="1" parent="1" source="UEK8QpO8ahS-XsoeuUCe-11" style="edgeStyle=none;html=1;" target="UEK8QpO8ahS-XsoeuUCe-13" value="">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="UEK8QpO8ahS-XsoeuUCe-11" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="Взять чашку&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+                    <mxGeometry height="60" width="120" x="280" y="830" as="geometry"/>
+                </mxCell>
+                <mxCell id="UEK8QpO8ahS-XsoeuUCe-16" edge="1" parent="1" source="UEK8QpO8ahS-XsoeuUCe-13" style="edgeStyle=none;html=1;" target="UEK8QpO8ahS-XsoeuUCe-15" value="">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="UEK8QpO8ahS-XsoeuUCe-13" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="Положить в чашку чайный пакетик" vertex="1">
+                    <mxGeometry height="60" width="120" x="280" y="910" as="geometry"/>
+                </mxCell>
+                <mxCell id="UEK8QpO8ahS-XsoeuUCe-18" edge="1" parent="1" source="UEK8QpO8ahS-XsoeuUCe-15" style="edgeStyle=none;html=1;" target="UEK8QpO8ahS-XsoeuUCe-17" value="">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="UEK8QpO8ahS-XsoeuUCe-15" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="Налить кипяток в чашку" vertex="1">
+                    <mxGeometry height="60" width="120" x="280" y="990" as="geometry"/>
+                </mxCell>
+                <mxCell id="UEK8QpO8ahS-XsoeuUCe-20" edge="1" parent="1" source="UEK8QpO8ahS-XsoeuUCe-17" style="edgeStyle=none;html=1;" target="UEK8QpO8ahS-XsoeuUCe-19" value="">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="UEK8QpO8ahS-XsoeuUCe-17" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="Добавить сахар" vertex="1">
+                    <mxGeometry height="60" width="120" x="280" y="1070" as="geometry"/>
+                </mxCell>
+                <mxCell id="UEK8QpO8ahS-XsoeuUCe-22" edge="1" parent="1" source="UEK8QpO8ahS-XsoeuUCe-19" style="edgeStyle=none;html=1;" target="UEK8QpO8ahS-XsoeuUCe-21" value="">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="UEK8QpO8ahS-XsoeuUCe-19" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="Размешать" vertex="1">
+                    <mxGeometry height="60" width="120" x="280" y="1150" as="geometry"/>
+                </mxCell>
+                <mxCell id="UEK8QpO8ahS-XsoeuUCe-24" edge="1" parent="1" source="UEK8QpO8ahS-XsoeuUCe-21" style="edgeStyle=none;html=1;" target="UEK8QpO8ahS-XsoeuUCe-23" value="">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="UEK8QpO8ahS-XsoeuUCe-21" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="Чай готов!" vertex="1">
+                    <mxGeometry height="60" width="120" x="280" y="1230" as="geometry"/>
+                </mxCell>
+                <mxCell id="UEK8QpO8ahS-XsoeuUCe-23" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="Конец" vertex="1">
+                    <mxGeometry height="80" width="120" x="280" y="1310" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
